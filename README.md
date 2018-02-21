@@ -1,0 +1,2 @@
+# Photomanger
+photoeventmanager
